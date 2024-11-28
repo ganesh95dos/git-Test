@@ -1,6 +1,9 @@
 Hello I am Ganesh Mestry
 This is Git Test file
 I am learning Git
+<<<<<<< HEAD
 
 This is learing file 
 
+=======
+>>>>>>> parent of 9f8197e... Added new lines
